@@ -104,7 +104,7 @@ Or
 
 # Copyright & Warranty Disclaimer
 
-© 2026 Brian Casey. All rights reserved.
+© 2026 Hexwyrm. All rights reserved.
 
 Permission is granted to use, modify, and distribute these scripts for personal, educational, or professional purposes, provided that proper credit is maintained.
 
